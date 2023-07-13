@@ -9,12 +9,14 @@
 <h4>One of my favorite snacks are chips/fries, also another favorite snack of mine is nuggets, and some desserts i like is chocolate, and froyo/ice cream</h4>
   <h2>Drinks</h2>
 <h4>Some of my favorite drinks are soda (Especially fanta), water (Because who doesn't love water), Boba,</h4> 
-
  </head>
-
+<h2>Games i like.</h2>
+<h4>Some of my favorite games are Minecraft, and Roblox, and among-us, and FIFA mobile</h4>
  <body>
-
-   
+<h2>Sports i like</h2>
+<h4>I like soccer and basketball, and bowling.</h4>
+<h2>My favorite youtubers!</h2>
+<h4>Socksfor1, ItsFunneh, Flamingo, DanTDM, and many many more because I'm a bit indecisive, i have a lot of favorites.</h4>   
 
  </body>
 
