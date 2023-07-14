@@ -1,4 +1,4 @@
-# ABOUT ME
+# ABOUT Me
 <!DOCTYPE html>
 <h3>Hello! I am Abhik Thapa, and i am American and nepalese and from maryland, i have a sister, and good parents.</h3>
 <html>
@@ -17,22 +17,6 @@
 <h4>I like soccer and basketball, and bowling.</h4>
 <h2>My favorite youtubers!</h2>
 <h4>Socksfor1, ItsFunneh, Flamingo, DanTDM, and many many more because I'm a bit indecisive, i have a lot of favorites.</h4>   
-
  </body>
-
+<h3>And that was some facts about myself, i hope you might find interest in some of these things too.</h3>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
